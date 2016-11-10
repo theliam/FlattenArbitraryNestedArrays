@@ -1,0 +1,4 @@
+C:\Users\Liam\Documents\Projects\FlattenArbitrarilyNestedIntArrays\FlattenArbitrarilyNestedIntArrays\bin\Debug\FlattenArbitrarilyNestedIntArrays.exe
+C:\Users\Liam\Documents\Projects\FlattenArbitrarilyNestedIntArrays\FlattenArbitrarilyNestedIntArrays\bin\Debug\FlattenArbitrarilyNestedIntArrays.pdb
+C:\Users\Liam\Documents\Projects\FlattenArbitrarilyNestedIntArrays\FlattenArbitrarilyNestedIntArrays\obj\x86\Debug\FlattenArbitrarilyNestedIntArrays.exe
+C:\Users\Liam\Documents\Projects\FlattenArbitrarilyNestedIntArrays\FlattenArbitrarilyNestedIntArrays\obj\x86\Debug\FlattenArbitrarilyNestedIntArrays.pdb
